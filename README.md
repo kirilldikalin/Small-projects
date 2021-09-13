@@ -6,3 +6,5 @@
 [clipboards history tracker](https://github.com/kirilldikalin/Small-projects/blob/main/clipboards%20history%20tracker.ipynb) - буфер обмена с изменяемым количеством хранимых в нём копий. В последствии можно указывать нужное айди в списке копий и вставлять его. 
 
 [bad comment ciller](https://github.com/kirilldikalin/Small-projects/blob/main/bad-comment-killer.ipynb) - разработка системы запрета плохих комментариев, в которых есть агрессия или оскорбления. Для работы ноутбука понядобится [labeled.csv](https://github.com/kirilldikalin/Small-projects/blob/main/csv/labeled.csv) из соответствующей папки
+
+[Predicting Stock Prices](https://github.com/kirilldikalin/Small-projects/blob/main/Predicting%20Stock%20Prices%20Yahoo.ipynb) - Задачка, которую не делал только ленивый. Предсказание цены акций
